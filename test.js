@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Test
+// @name         Test JS
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Test
+// @description  Test JS Script
 // @author       Georgiy Sosnovskiy
-// @match        https://*
+// @match        https://dev.app.gegi.co/*
 // ==/UserScript==
 
 (function () {
