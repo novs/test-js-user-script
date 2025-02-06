@@ -3,9 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Test
-// @author       Roman Passler
+// @author       Georgiy Sosnovskiy
 // @match        https://*
-// @match        http://*
 // ==/UserScript==
 
 (function () {
